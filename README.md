@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/50c1dbae-7228-4b04-ae65-3322f35a2ce2)# Paint
+# Paint
 
 ## Описание
 
