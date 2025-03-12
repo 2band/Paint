@@ -1,4 +1,4 @@
-# Paint
+![image](https://github.com/user-attachments/assets/50c1dbae-7228-4b04-ae65-3322f35a2ce2)# Paint
 
 ## Описание
 
@@ -7,39 +7,75 @@
 ## Основные функции
 ### 1. Инстурменты для рисования 
 
-- **Карандаш**: Рисование произвольных линий.
-- **Кисть**: Рисование с различными типами кистей (круглая, квадратная, текстурированная).
-- **Линия**: Рисование прямых линий.
+- **Карандаш**: Рисование произвольных линий.  ![image](https://github.com/user-attachments/assets/ebc185f1-d24f-4ed9-a9fc-7db5dc29319d)
+
+- **Кисть**: Рисование с различными типами кистей (круглая, квадратная, текстурированная).  ![image](https://github.com/user-attachments/assets/502a8bb1-d0fe-4c81-b54b-5a41083a77f1)
+
+- **Линия**: Рисование прямых линий. ![image](https://github.com/user-attachments/assets/6934ca2f-aca0-4d5d-925a-9b8073cee37b)
+
 - **Фигуры**: Добавление прямоугольников, эллипсов, треугольников и других фигур.
+  ![image](https://github.com/user-attachments/assets/48ff51c8-e001-4ea3-a29a-f376a0bf17a7)
+
 - **Текст**: Добавление текста на изображение с выбором шрифта, размера и цвета.
+  ![image](https://github.com/user-attachments/assets/7eda7388-cc01-4b94-8a7a-2032dbd7141c)
+
 - **Ластик**: Удаление частей изображения.
+  ![image](https://github.com/user-attachments/assets/e1ba38ea-6057-41dc-a367-d2eea9468ae5)
+
 - **Заливка**: Заливка замкнутых областей выбранным цветом.
+  ![image](https://github.com/user-attachments/assets/9ce9f2fa-cd25-4a68-8c35-19b4ab0ef106)
+
 
 ### 2. Работа с цветами
 + **Палитра** цветов: Выбор цвета из стандартной палитры.
+
+
+  ![image](https://github.com/user-attachments/assets/6622f072-15d1-4e37-820b-339bb8b193ff)
+
 + **Пипетка**: Выбор цвета непосредственно с изображения.
+  ![image](https://github.com/user-attachments/assets/5ae199a2-72ad-49a4-97f3-49ea61e62f54)
+
 + **Настройка RGB**: Точная настройка цвета с помощью значений RGB.
+  ![image](https://github.com/user-attachments/assets/dea9d4f0-dd86-4c38-ac5b-0cf7aff52b69)
+
 + **Градиент**: Заливка градиентом (линейным или радиальным).
+
+
+  ![image](https://github.com/user-attachments/assets/adae60ed-777f-48e0-839d-7af126da2158)
+
 
 ### 3. Редактирование изображений
 - **Отмена и повтор действий**: Отмена последнего действия (Ctrl+Z) и повтор (Ctrl+Y).
+  ![image](https://github.com/user-attachments/assets/19b2e04f-5db4-4e41-85c3-888d07c52280)
+
 - **Очистка холста**: Быстрая очистка всего холста.
 - **Изменение размера холста**: Увеличение или уменьшение рабочей области.
+  ![image](https://github.com/user-attachments/assets/0e437e51-292f-4430-afec-2e63bb00a7bc)
 - **Обрезка**: Обрезка изображения до выбранной области.
+  ![image](https://github.com/user-attachments/assets/eac25122-37b3-45df-ab71-d7fb760f05cb)
+
 
 ### 4. Слои
 - **Добавление слоев**: Возможность работы с несколькими слоями.
+  ![image](https://github.com/user-attachments/assets/b50e609d-a416-48ff-80c4-0b8cb6a1d38b)
+
 - **Управление слоями**: Перемещение, удаление, объединение слоев.
+
+  ![image](https://github.com/user-attachments/assets/b2485a6e-762b-4edf-b557-71f64892c101)
 - **Прозрачность**: Настройка прозрачности каждого слоя.
 
 ### 5. Сохранение и экспорт
 + **Сохранение изображений**: Сохранение в форматах PNG, JPEG, BMP.
+  ![image](https://github.com/user-attachments/assets/3ed6de09-6f3d-4df1-91ff-2a5e40e7beee)
 + **Экспорт в PDF**: Экспорт изображения в PDF-файл.
 + **Открытие изображений**: Загрузка существующих изображений для редактирования.
+  ![image](https://github.com/user-attachments/assets/84e288a1-9b1d-47fc-a963-f5acb45107a4)
+
+
 
 ### 6. Дополнительные функции
-- **Масштабирование**: Увеличение и уменьшение масштаба холста.
-- **Сетка**: Включение сетки для точного рисования.
+- **Масштабирование**: Увеличение и уменьшение масштаба холста.  ![image](https://github.com/user-attachments/assets/b29decfe-bffe-4bde-9d1b-9e3da041fbca) или `Crtl + Scroll`
+- **Сетка**: Включение сетки для точного рисования. `Crtl + T`
 - **Горячие клавиши**: Поддержка горячих клавиш для быстрого доступа к инструментам.
 
 ## Установка
